@@ -1,4 +1,4 @@
-package github.phenriqued.user.infra.repository.user.param;
+package github.phenriqued.user.infra.repository.user.custom.param;
 
 import lombok.Data;
 
